@@ -1,3 +1,8 @@
 Line 1
 Line 2
 Line 3
+
+Note 1 Deleted
+Note 2 Deleted
+Note 3 Deleted
+
